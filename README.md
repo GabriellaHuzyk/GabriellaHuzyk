@@ -6,7 +6,7 @@
 
 ## Living in Limeira-SP
 
-Working with NodeJS (TypeScript) at Aftersale
+:computer: Working with NodeJS (TypeScript) at Aftersale
 
 ## Connect with me
 
