@@ -8,7 +8,7 @@
 </div>
 
 
-## Living in Limeira-SP
+## Living in São Paulo
 
 :computer: Working with NodeJS (TypeScript) at Aftersale
 
