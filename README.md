@@ -10,7 +10,7 @@
 
 ## Living in São Paulo
 
-:computer: Working with NodeJS (TypeScript) at Aftersale
+:computer: Working with NodeJS (TypeScript) at Makasí
 
 ## Skills
 
